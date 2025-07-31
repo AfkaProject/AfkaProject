@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# ***Hi! Walcome to my Profil***
+![Afka-img](img/afka.png)
 <!--
 **AfkaProject/AfkaProject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
