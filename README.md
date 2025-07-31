@@ -1,4 +1,4 @@
-# ***Hi! Walcome to my Profil***
+# ***Hi! Walcome to my Profile***
 ![Afka-img](img/afka.png)
 
 <!--
