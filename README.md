@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👨‍💻 **Hai I'm _developer_ and this my <ins>[Social Media](https://instagram.com/kaxyz_id/)</ins>**
 
 ##### My Os
 
