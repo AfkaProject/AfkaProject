@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 ##### Social Media
 
 ![https://instagram.com/kaxyz_id](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
 ![https://github.com/AfkaProject](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
